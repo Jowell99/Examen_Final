@@ -34,7 +34,7 @@
         android:layout_width="0dp"
         android:layout_height="55dp"
         android:layout_margin="5dp"
-        android:onClick="Labeling"
+        android:onClick="abrirCamera"
         android:text="Cámara"
         app:layout_constraintLeft_toRightOf="@+id/btGallery"
         app:layout_constraintRight_toRightOf="parent"
