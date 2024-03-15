@@ -1,7 +1,5 @@
-![image](https://github.com/Jowell99/Reconocimiento/assets/142686187/dcba735d-6f8b-48b0-b68e-7e160570816d)
-![image](https://github.com/Jowell99/Reconocimiento/assets/142686187/5195a355-8b90-4128-afa0-630b75f6d7e4)
-![image](https://github.com/Jowell99/Reconocimiento/assets/142686187/2d80e0da-a4a5-4dfe-ac42-ed69c4a969bd)
-![image](https://github.com/Jowell99/Reconocimiento/assets/142686187/1f822300-2415-4776-b1c5-7f5f206714fb)
-
-
-
+![Aguirre](https://github.com/Jowell99/Examen_Final/assets/142686187/62767034-50a5-4f8e-bce6-604c7b8fd008)
+![Wladimir](https://github.com/Jowell99/Examen_Final/assets/142686187/4c6298a6-28fd-45b4-9d5e-f589758b313f)
+![Linley](https://github.com/Jowell99/Examen_Final/assets/142686187/38921261-68d6-45c2-b8fe-c2f01734bd64)
+![Julius](https://github.com/Jowell99/Examen_Final/assets/142686187/7b8725e5-868a-45aa-a789-227100838784)
+![Kevin](https://github.com/Jowell99/Examen_Final/assets/142686187/07247078-91ce-4b57-8752-6e7ddfa469cf)
